@@ -1,6 +1,2 @@
-
-this is kushal varma
-
-
-
-File to check the merge tool.
+Hi Team,
+This is git demo
