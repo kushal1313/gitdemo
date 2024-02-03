@@ -1,2 +1,2 @@
 hello, poll scm configured
-Added webhook in github
+Added webhook in github retrying
